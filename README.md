@@ -1,4 +1,6 @@
 # craft-text-detector
+CRAFT: Character-Region Awareness For Text detection
+
 Experimenting with Craft Text Detector.  The result from this text detector is quite impressive compare to others.
 Get it from : https://pypi.org/project/craft-text-detector/
 
