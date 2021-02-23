@@ -7,10 +7,15 @@ Craft detector 0.3.1
 python 3.8
 pytesseract
 
-## craf-text-detector.md
-Results from running the script
+## craft_text_detector.ipnb .md and Craft Output folder
+craft_text_detector.ipnb .md
+Craft Output folder -- contains the output from the detector
 
-## folders
-Craft Text Detector outputs the result into a folder you specified.  In it are heatmaps and a text file containing the regions of the text.  Another folder was created with "_crops" extention containing the cropped images -- Convenient to pass it on to text recognition models.  
+## craft-text_detector_2
+craft_text_detector.ipng .md
+Craft Output 2 folder
+
+Using refine_net and craft_net.
+They actually performed worse.  To be investigated.
 
 
